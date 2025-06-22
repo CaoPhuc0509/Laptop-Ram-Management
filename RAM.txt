@@ -1,0 +1,6 @@
+DDR4,3200,Corsair Vengeance,100,11/2021
+DDR4,3200,Crucial,15,05/2020
+DDR5,5600,Crucial,200,04/2023
+DDR4,3200,Kingston Fury Impact,20,08/2021
+DDR5,4800,Kingston Fury Impact,50,01/2022
+DDR4,3200,Truongphuc,20,08/2024
